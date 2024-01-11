@@ -1,1 +1,2 @@
 # Javascript-code-Samples-Building-Foundations
+This repository contains a collection of simple yet illustrative JavaScript code samples showcasing fundamental programming concepts. Ideal for those learning or reinforcing coding logic. Feel free to explore, contribute, and elevate your coding skills!
