@@ -26,7 +26,7 @@ This repository contains a collection of simple yet illustrative JavaScript code
 	•	Code: fibonacci.js
      <br/>
 	•	Description: A recursive function to compute the Fibonacci sequence.
-    <br/> 
+    <br/> <br/>
 </li>
 
   <li>
