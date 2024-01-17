@@ -29,4 +29,14 @@ This repository contains a collection of simple yet illustrative JavaScript code
     <br/> 
 </li>
 
+  <li>
+  	<b>Find Even Numbers:</b>
+     <br/>
+	•	Code: findEvenNumbers.js
+     <br/>
+	•	 Description: A JavaScript function that identifies and returns even numbers from an array.
+    <br/> 
+</li>
+
  </ol>
+
