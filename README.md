@@ -38,5 +38,14 @@ This repository contains a collection of simple yet illustrative JavaScript code
     <br/> 
 </li>
 
+  <li>
+  	<b>Summation Exercise:</b>
+     <br/>
+	•	Code: summation.js
+     <br/>
+	•	 Description: This code calculates the sum of numbers in an array using basic JavaScript concepts such as arrays and loops. It provides a simple example for beginners to understand the basics of JavaScript programming.
+    <br/> 
+</li>
+
  </ol>
 
